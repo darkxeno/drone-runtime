@@ -14,7 +14,7 @@
 
 package runtime
 
-import "github.com/drone/drone-runtime/engine"
+import "github.com/darkxeno/drone-runtime/engine"
 
 type status struct {
 	step  *engine.Step

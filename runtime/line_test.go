@@ -7,7 +7,7 @@ package runtime
 import (
 	"testing"
 
-	"github.com/drone/drone-runtime/engine"
+	"github.com/darkxeno/drone-runtime/engine"
 )
 
 func TestLineWriter(t *testing.T) {

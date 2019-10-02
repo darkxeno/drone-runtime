@@ -10,7 +10,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/drone/drone-runtime/engine"
+	"github.com/darkxeno/drone-runtime/engine"
 )
 
 func TestCreateTarfile(t *testing.T) {
